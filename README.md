@@ -1,37 +1,23 @@
 # typora_software
 
 #### 介绍
-typora软件安装包
+typora软件安装包，关于Windows和Mac系统的软件安装包
 
-#### 软件架构
-软件架构说明
+#### 软件说明
 
+> typora 是一款简单易用的Markdown编辑器。Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式，其目标是实现易读易写。而Typora则是一个非常不错的Markdown编辑器，它的界面非常的简洁直观，并且功能各方面也是非常的不错，例如实时预览功能在完成输入后就可以看到这些内联样式，并在键入时或按下“Enter”键或焦点到另一个段落后查看块样式。并且 Typora将为您提供读者和作家的无缝体验。它删除了预览窗口，模式切换器，降价源代码的语法符号以及所有其他不必要的干扰。将它们替换为真实的实时预览功能，以帮助您专注于内容本身。
+
+![]($%7Bphoto%7D/Typora-16499941538693.gif)
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+- Mac版的软件安装包直接安装即可使用， 无需激活操作
+- Windows需要进行一些补丁操作，具体看文件内的说明
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 声明
+
+- **<font color=red>以上软件收集于互联网!</font>**
+
+- 请支持正版软件
