@@ -1,6 +1,7 @@
 # typora_software
 
 #### 介绍
+
 typora软件安装包，关于Windows和Mac系统的软件安装包
 
 #### 软件说明
@@ -20,4 +21,4 @@ typora软件安装包，关于Windows和Mac系统的软件安装包
 
 - **<font color=red>以上软件收集于互联网!</font>**
 
-- 请支持正版软件
+- **<font color=gree>仅供学习，请在下载24小时之内删除，请支持正版软件</font>**
